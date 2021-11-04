@@ -1,0 +1,8 @@
+programmet har en metode "generateRandomInteger" som generere et random tal i mellem 1 - 10.
+
+i main metoden er der en for-loop som vil køre så længe i er mindre end 10.
+inde i loopet bliver metoden "generateRandomInteger" kaldt og gemt i en int, som derefter bliver printet.
+
+der vil altså blive printet et random tal i mellem 0-9, 10 gange.
+
+efter for loopet bliver der printet en ny besked én gang.

@@ -1,0 +1,9 @@
+Nedarvning går ud på at klasser kan nedarve sine egenskaber til andre klasser.
+Klassen der nedarver sine egenskaber til andre klasser kaldes for en super/parent-klasse,
+hvor de klasser der nedarver egenskaber kaldes for sup/child-klasse.
+
+Man kan fx lave en Animal klasse som har nogle egenskaber alle dyr har fx antal ben, at spise, gå osv.
+Så kan man lave nogle sup-klasser til animal klassen som så vil nedarve de egenskber.
+
+En child klasse kan godt have flere atributter og klasser en parent-klassen.
+de atributter og klasser parent-klassen har, er det som child-klasserne har til fælles

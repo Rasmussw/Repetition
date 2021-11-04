@@ -1,0 +1,8 @@
+static tilknytter sig til klassen og ikke objektet.
+så hvis du skal kalde en static metode, så skal man ikke først lave et nyt object,
+og kalde metoden på objektet, man kalder bare metoden på klassen.
+
+så static metode gælder for alle objecter i klassen og ikke kun en specifik
+
+hvis man laver en static atribut, så vil den gælde for alle objekterne og ikke kun en specifik.
+fx. i en 
