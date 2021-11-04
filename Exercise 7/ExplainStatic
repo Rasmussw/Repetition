@@ -5,4 +5,3 @@ og kalde metoden på objektet, man kalder bare metoden på klassen.
 så static metode gælder for alle objecter i klassen og ikke kun en specifik
 
 hvis man laver en static atribut, så vil den gælde for alle objekterne og ikke kun en specifik.
-fx. i en 
